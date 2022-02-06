@@ -62,7 +62,7 @@ public class CardGame {
         System.out.println(response);
          printinfo();
     }
-    
+    //I'm done!
     public static void printinfo(){
         System.out.println("Hello! \n");
          System.out.println("My name Harmandeep Kaur Sidhu and I am currently enrolled in Computer programming course at Sheridan College. \n");
